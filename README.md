@@ -11,7 +11,7 @@ I'm Petrol, a web development student!
 ### My most used technologies!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=petrolbras&theme=tokyonight&layout=compact)
 
-## My habilites 
+## My abilites 
 
 ### Languages
 [![Javascript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript)](https://typescriptlang.org)
