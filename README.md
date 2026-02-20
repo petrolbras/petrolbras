@@ -1,6 +1,6 @@
 ## Hello! Welcome to my github 👋
 
-#### I'm Pietro, a fullstack web developer that is evolving and progressing every single day (by myself)!
+I'm Pietro, a fullstack web developer that is evolving and progressing every single day (by myself)!
 
 ### What I have been learning more recently?
 - The creation of API's
